@@ -1,8 +1,4 @@
 
-
-
-
-
 //Passed props for presentational component to render
 
 //   render() {
